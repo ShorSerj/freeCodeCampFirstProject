@@ -1,0 +1,83 @@
+body {
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #EEEEEE;
+    margin: 23px 12px 50px 12px;
+    border-radius: 5px;
+}
+
+#title {
+    padding-top: 51px;
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.title__comment {
+    margin-top: 28px;
+    text-align: center;
+}
+
+#img-div {
+    margin: 18px 57px 10px 56px;
+    width: 98%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#image {
+    padding: 10px 0 0 4px;
+    max-width: 100%;
+}
+
+#img-caption {
+    margin: 19px 0 18px 26px;
+    letter-spacing: 0.2px;
+}
+
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 36%;
+}
+
+#tribute-info__title {
+    margin: 44px 0 0 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 51px;
+}
+
+.dats-container li {
+    line-height: 39px;
+}
+
+blockquote {
+    margin-top: 47px;
+    font-style: italic;
+    line-height: 23px;
+}
+
+.author {
+    margin-top: 18px;
+}
+
+.more-info {
+    margin: 55px 0 37px 0;
+    font-size: 20px;
+}

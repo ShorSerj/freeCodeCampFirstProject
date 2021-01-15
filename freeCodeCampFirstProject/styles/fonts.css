@@ -1,0 +1,23 @@
+@font-face{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('../fonts/RobotoCondensed-Bold.ttf') format('ttf');
+}
+
+@font-face{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('../fonts/RobotoCondensed-Regular.ttf') format('ttf');
+}
+
+@font-face{
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('../fonts/RobotoCondensed-Italic.ttf') format('ttf');
+}
